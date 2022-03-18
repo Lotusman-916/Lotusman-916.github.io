@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://lotusman.github.io/sitemap.xml
+Sitemap: https://lotusman.github.io/baidusitemap.xml

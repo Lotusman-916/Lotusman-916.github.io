@@ -1,0 +1,8 @@
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>#footer {
+    background-color: #fff;
+}
+/* 设置底部footer的文字的颜色 */
+#footer-wrap {
+    padding: 20px;
+    color: #000;
+}
